@@ -1,6 +1,4 @@
 import math
-import pandas
-
 
 
 # aprendamos sobre variables
