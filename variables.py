@@ -1,4 +1,7 @@
 import math
+import pandas
+
+
 
 # aprendamos sobre variables
 def suma(a,b):
@@ -13,6 +16,7 @@ print(len('la longuitud de esta lista es :'))
 
 lista.append('ultimovalor') # agregamos un valor a lo ultimo de la lista
 print(lista)
+
 
 lista[0]=7 #cambio lo que hay en el primer valor (0) por el valor de 7
 print(lista)
@@ -35,3 +39,4 @@ def sum(num1:float, num2:float) -> float:
     return valor_suma
 
 print(sum(2,2))
+
