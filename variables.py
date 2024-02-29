@@ -1,4 +1,5 @@
-import math
+import numpy as np
+import pandas as pd
 
 
 # aprendamos sobre variables
@@ -38,3 +39,11 @@ def sum(num1:float, num2:float) -> float:
 
 print(sum(2,2))
 
+# Diccionarios
+diccionarios = {
+    'nombre': 'Santiago',
+    'apellido': 'Echeverri',
+    'Profesion': 'Matemático',
+    'Ocupasión': 'Líder De Ingeniería de datos'
+}
+diccionarios[nombre]

@@ -89,8 +89,8 @@ def factorial(numero: int) -> int:
 
 #Escribir una funciòn que reciba una lista de números y retorne su media
 
-def mean(arrayList:list):
-  return (np.array(arrayList)).mean()
+#def mean(arrayList:list):
+#  return (np.array(arrayList)).mean()
 
 def media(lista_numeros: list) -> float:
     media_valores = sum(lista_numeros)/len(lista_numeros)
