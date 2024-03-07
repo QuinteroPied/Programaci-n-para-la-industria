@@ -24,3 +24,5 @@ pip install virtualenv
 venv\Scripts\activate
 
 venv\Scripts\activate
+
+pip freeze > requeritment
