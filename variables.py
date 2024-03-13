@@ -46,4 +46,3 @@ diccionarios = {
     'Profesion': 'Matemático',
     'Ocupasión': 'Líder De Ingeniería de datos'
 }
-diccionarios[nombre]
