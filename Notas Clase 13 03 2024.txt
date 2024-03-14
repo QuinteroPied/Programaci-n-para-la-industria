@@ -1,0 +1,70 @@
+CICLO DE VIDA DE DESARROLLO DE SOFTWARE
+(Roles)
+
+1. Analisis de requerimientos: Qué es lo que quiero que desarrolle mi sistema, etc. 
+Involucrados
+- Arquitectos
+- Produc Owner: Dueño de producto, es la persona que sabe sobre el tema y lo que necesita.
+- Proyect manayer
+- LT: Líder técnico
+- Analistas SOA
+
+2. Diseño de soluciones: 
+- Arquitectos
+- LT: Líder técnico
+- Desarrollador
+
+3. Desarrollo: se programa el tema de soluciones
+- LT: Líder técnico
+- Desarrollador
+
+4. Despliegue: Se empieza a utilizar 
+- LT: Líder técnico
+- Desarrollador
+- Devops
+- Infra
+
+5. Soporte: Soportar la soluciones
+- Desarrollador
+
+METODOLOGÍAS
+La metodología son las estrategias para llevar a cabo un ciclo de vida.
+
+Metodología Tradicional (Cascada):
+Ar  ->  Ds  ->  D  ->  De  ->  M    Es secuencial.
+              
+              Entender el problema
+Espacio del problema          Espacio de solucion
+Ideas                   | Diseño desarrollo de solución
+Criterio de éxito       | Criterios de aceptación
+Historia de usuario     | Despliegue
+
+                                      Requerimientos de producto
+Negocio        requerimientos de Negocio       Reglas de Negocio
+Usuario        requerimientos de usuario       Atributos de calidad            Requerimientos no funcionales
+Funcional      requerimientos de sistema       requerimientos funcionales      Restriccciones
+
+Funcional: detallan el funcionamiento del sistema
+
+No Funcional: Representan caracteristicas generales y restriccciones. 
+              Normalmente están vinculados a un atributo de calidad.
+
+
+METODOLOGÍA AGÍL (Feedback)
+Se busca obtener Feedback o retroalimentación de manera oportuna; es decir darse cuenta rapido de los errores y retroalimentar.
+
+Estos son un grupo de metodologías que busca llevar ael ciclo de vida en constante Feedback (Investigar)
+- Scrum
+- Canbas
+- Crisp-pm
+- crisp-ml
+
+Metodología que busca el rapido feedback
+CEREMONIAS:
+Sprints -> Cada 15 días (reunion de lo que se lleva y se necesita)
+Daily -> 15 minutos cada día
+Refinamiento -> refinar lo que necesito y de los requerimientos
+planning -> Se planea que se va a hacer durante esos 15, y se reparte trabajo (!)
+Review 
+Retrospectiva
+Historia de usuario
