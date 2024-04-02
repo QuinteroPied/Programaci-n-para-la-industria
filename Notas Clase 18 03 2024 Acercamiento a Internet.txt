@@ -1,0 +1,28 @@
+Librería
+Psycopg2 -> para tener posgreSql en Python
+
+Ajax: es Javascript y XML
+Json: es Javascript objet notation
+Rest: Arquitectura de Api basado en verbos Http
+Http: hiper text transfer Protocol (s = security)
+
+Internet, se maneja con peticiones.
+En python se pueden hacer peticiones con una librería
+especifica 'Requests'.
+
+Despues del Http://'Dominio'.com
+Tenemos los Dominios, que es lo que estamos buscando
+y este contiene el DNS (Domain name services) = ('dominio', dirección ip)
+
+SMTP: Protocolo para transferencia simple de correo
+El Protocolo Simple de Transferencia de Correo es
+un protocolo de red utilizado para el 
+intercambio de mensajes de correo electrónico 
+entre computadoras u otros dispositivos
+
+Http se maneja con verbos
+Htttp: {Options, Get, Post, Put, Delete, Patch}  
+
+Http(s) el S es de security
+
+Tls / Ssl   ->  ( Cifrado simetrico - Cifrado asimetrico )  Los cifrados normalmente son RCA
